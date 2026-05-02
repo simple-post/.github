@@ -1,5 +1,5 @@
 # SimplePost
 
-SimplePost gives you full control with a single, unified TypeScript library for posting to X, YouTube, Instagram, TikTok, Facebook, and LinkedIn. No subscriptions. No SaaS. Just clean code.
+One posting stack for every workflow - AI agents, command line, app integration, and a scheduling UI. Buy once. Self-host. Never think about social media plumbing again.
 
-To get access to the repository, please buy a license at [https://simplepost.dev](https://simplepost.dev).
+To get access to the repository and all tools, please purchase a license at [https://simplepost.dev](https://simplepost.dev).
